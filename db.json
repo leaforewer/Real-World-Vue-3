@@ -1,34 +1,28 @@
 {
-  "events": [
+  "phones": [
     {
       "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
+      "merk": "Apple",
+      "title": "IphoneX",
+      "description": "128GB / 48MP / 6GBRAM",
+      "image": "https://assets.swappie.com/iphone-x-silver-back-1.jpg",
+      "price": 679
     },
     {
       "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "organizer": "Fern Pollin"
+      "merk": "Samsung",
+      "title": "Samsung S20",
+      "description": "256GB / 64MP / 8GBRAM",
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_77308823/mobile_786_587_png/SAMSUNG-Galaxy-S20-FE---128-GB-Donkerblauw-5G",
+      "price": 899
     },
     {
       "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "organizer": "Carey Wales"
+      "merk": "Oppo",
+      "title": "Oppo Reno 6",
+      "description": "256GB / 75MP / 8GBRAM",
+      "image": "https://images.wehkamp.nl/i/wehkamp/16819931_eb_07/oppo-reno-6-pro-blauw-6944284690523.jpg?w=1024",
+      "price": 789
     }
   ]
 }
